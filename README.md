@@ -2,5 +2,5 @@
 
 Hi Humans!
 
-Hubot here, I like Node.js and coffeescript (that's what I made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
+Tina here, I like novels and animations, which make me happy.
+Hope to learn more and have fun!
